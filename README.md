@@ -1,9 +1,9 @@
 <!-- antes de enviar a versão final, solicitamos que todos os comentários, colocados para orientação ao aluno, sejam removidos do arquivo -->
 
-# ChatBot - Automação de envios de Relatórios de Acompanhamento e Gestão
+# ChatBot - Automação de Envios de Relatórios de Acompanhamento e Gestão
 
 #### Aluno: [Flávio Oliveira Duarte](https://github.com/flaviooduarte).
-#### Orientador: Leonardo Alfredo Forero Mendoza.
+#### Orientador: [Leonardo Alfredo Forero Mendoza](https://github.com/leofome8).
 
 ---
 
